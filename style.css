@@ -1,5 +1,5 @@
 html{
-    background-color:hsl(220, 15%, 55%);
+    background-color:rgb(214,225,240);
 }
 main{
     display: flex;
@@ -30,7 +30,7 @@ p{
     text-align: center;
     align-items: center;
     border-radius: 1.5rem;
-    background-color: rgb(214,225,240);
+    background-color: hsl(0, 0%, 100%);
     padding: 1rem;
     margin: 2.5rem;   
     
